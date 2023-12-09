@@ -2,7 +2,7 @@
 
 ![meal app](https://github.com/MuhamadAndre10/meals_flutter_app/blob/main/assets/img/meals.png?raw=true)
 
-> Practice Udemy course
+> This Project just for learning, not for production ready
 
 ## Mempelajari
 - Navigate between screen
